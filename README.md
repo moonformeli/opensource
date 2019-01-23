@@ -14,6 +14,6 @@ What are the open source projects I have contributed to?
 * Commits
   * [#38](https://github.com/Integerous/goQuality-dev-contents/pull/38) 자바스크립트와 한글 인코딩의 관계
 * Issues
-  * none
+  * [#40](https://github.com/Integerous/goQuality-dev-contents/issues/40) 자바스크립트 Functor(펑터)란
 * Comments & Talks
   * none
