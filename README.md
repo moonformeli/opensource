@@ -17,3 +17,11 @@ What are the open source projects I have contributed to?
   * [#40](https://github.com/Integerous/goQuality-dev-contents/issues/40) 자바스크립트 Functor(펑터)란
 * Comments & Talks
   * none
+
+## luxon
+* Commits
+  * none
+* Issues
+  * [#416](https://github.com/moment/luxon/issues/416) Why does luxon use ```Intl.DateTimeFormat```
+* Comments & Talks
+  * none
