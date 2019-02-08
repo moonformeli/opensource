@@ -1,6 +1,10 @@
 # opensource
 What are the open source projects I have contributed to?
 
+## [MDN-kor](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference)
+* Commits
+  * [Array.prototype.flat](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/flat) 	Changed the state of the proposal from "Candidate" to "Finished", The Edition translated into Korean
+
 ## [lodash](https://github.com/lodash/lodash/)
 * Commits 
   * [#4145](https://github.com/lodash/lodash/pull/4145) Change type check and the way of sending params.
