@@ -11,6 +11,7 @@ What are the open source projects I have contributed to?
     * Properties
       * [OffscreenCanvas.height](https://developer.mozilla.org/ko/docs/Web/API/OffscreenCanvas/height)
       * [OffscreenCanvas.width](https://developer.mozilla.org/ko/docs/Web/API/OffscreenCanvas/width)
+    * Methods
       * [OffscreenCanvas.convertToBlob()](https://developer.mozilla.org/ko/docs/Web/API/OffscreenCanvas/toBlob)
 
 ## [lodash](https://github.com/lodash/lodash/)
