@@ -6,6 +6,8 @@ What are the open source projects I have contributed to?
   * [Array.prototype.flat](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/flat) 	Changed the state of the proposal from "Candidate" to "Finished", The Edition translated into Korean
   * [Array.prototype.flatMap](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/flatMap) Changed the state of the current proposal stage
   * [OffscreenCanvas](https://developer.mozilla.org/ko/docs/Web/API/OffscreenCanvas) Fully translated
+    * Constructor
+      * [OffscreenCanvas()](https://developer.mozilla.org/ko/docs/Web/API/OffscreenCanvas/OffscreenCanvas)
 
 ## [lodash](https://github.com/lodash/lodash/)
 * Commits 
