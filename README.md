@@ -3,11 +3,15 @@ What are the open source projects I have contributed to?
 
 ## [MDN-kor](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference)
 * Commits
-  * [Array.prototype.flat](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/flat) 	Changed the state of the proposal from "Candidate" to "Finished", The Edition translated into Korean
+  * [Array.prototype.flat](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/flat) 	Changed the state of the proposal from "Candidate(3)" to "Finished(4)", The Edition translated into Korean
   * [Array.prototype.flatMap](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/flatMap) Changed the state of the current proposal stage
   * [OffscreenCanvas](https://developer.mozilla.org/ko/docs/Web/API/OffscreenCanvas) Fully translated
     * Constructor
       * [OffscreenCanvas()](https://developer.mozilla.org/ko/docs/Web/API/OffscreenCanvas/OffscreenCanvas)
+    * Properties
+      * [OffscreenCanvas.height](https://developer.mozilla.org/ko/docs/Web/API/OffscreenCanvas/height)
+      * [OffscreenCanvas.width](https://developer.mozilla.org/ko/docs/Web/API/OffscreenCanvas/width)
+      * [OffscreenCanvas.convertToBlob()](https://developer.mozilla.org/ko/docs/Web/API/OffscreenCanvas/toBlob)
 
 ## [lodash](https://github.com/lodash/lodash/)
 * Commits 
@@ -27,7 +31,7 @@ What are the open source projects I have contributed to?
 * Comments & Talks
   * none
 
-## luxon
+## [luxon](https://github.com/moment/luxon)
 * Commits
   * none
 * Issues
