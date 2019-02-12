@@ -18,6 +18,7 @@ What are the open source projects I have contributed to?
 * Commits 
   * [#4145](https://github.com/lodash/lodash/pull/4145) Change type check and the way of sending params.
   * [#4153](https://github.com/lodash/lodash/pull/4153) Use 3 equal signs
+  * [#4187](https://github.com/lodash/lodash/pull/4187) Cancel old timer, editing pr #4139
 * Issues
   * none
 * Comments & Talks
