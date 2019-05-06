@@ -30,6 +30,7 @@ What are the open source projects I have contributed to?
   * [#46](https://github.com/Integerous/goQuality-dev-contents/pull/46) 링크가 잘못 연결 된 하이퍼링크 수정
   * [#57](https://github.com/Integerous/goQuality-dev-contents/pull/57) Git을 사용할 때 꼭 알아두어야하는 개념들
   * [#60](https://github.com/Integerous/goQuality-dev-contents/pull/60) JS, CSS를 이용해 position-stikcy 구현하기
+  * [#67](https://github.com/Integerous/goQuality-dev-contents/pull/67) JavaScript - 바벨(Babel)의 동작 원리에 대해 알아보자
 * Issues
   * [#40](https://github.com/Integerous/goQuality-dev-contents/issues/40) 자바스크립트 Functor(펑터)란
 * Comments & Talks
